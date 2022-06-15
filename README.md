@@ -7,5 +7,6 @@ Skills that I am using in this project are:
 - Use command line tasks (cd, mkdir...)
 - Practice Microsoft Visual Studio Code
 
+Reflection
 
 
