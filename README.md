@@ -9,4 +9,5 @@ Skills that I am using in this project are:
 
 Reflection
 
+Wow, already I have forgotten the proper steps when jusing git and also the proper commands. No worries, I simply went back to a previous lesson to re-learn them. This has taught me the importance of practice and how easy some things slip from our memory. I found this project fun to work on because of the simplicty.
 
